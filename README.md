@@ -11,22 +11,22 @@ Please refer to [bert-base-chinese](https://huggingface.co/bert-base-chinese/tre
 
 We provide five major scripts for training & evaluation
 
-1. baseline
+**baseline**
     
     python scripts/slu_baseline.py --device=[your_cuda_device]
-
-2. BERT-encoder model
+    
+**BERT-encoder model**
 
     python scripts/Bert.py --device=[your_cuda_device]
 
-3. biLSTM-CRF-decoder model
+**biLSTM-CRF-decoder model**
 
     python scripts/biLSTM_crf.py --device=[your_cuda_device]
-
-4. **BERT-CRF**
+   
+**BERT-CRF**
 
     python scripts/Bert-biLSTM_crf.py --device=[your_cuda_device]
 
-5. BERT-CRF with history conversation involved
+**BERT-CRF with history conversation involved**
 
     python scripts/Bert-biLSTM_crf_useHistory.py --device=[your_cuda_device]
