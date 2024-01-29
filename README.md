@@ -1,8 +1,14 @@
 # BERT-CRF: Model for Chinese Spoken Language Understanding
 
-<center>Project of CS3602 NLP, 2023 Fall, SJTU</center>
+<p align="center">
+    Project of CS3602 NLP, 2023 Fall, SJTU
+</p>
 
-<center> [Jiude Wei](https://github.com/kizunawl) [Letian Yang](https://github.com/MoeKid101) </center>
+<p align="center">
+    <a href="https://github.com/kizunawl">Jiude Wei</a>
+    &nbsp
+    <a href="https://github.com/MoeKid101">Letian Yang</a>
+</p>
 
 ## Requirements
     conda create -n nlp python=3.7
