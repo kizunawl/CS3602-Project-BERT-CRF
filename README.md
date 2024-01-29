@@ -19,9 +19,9 @@
 
 ## Training
 
-Please refer to our report in this repository for more details of this project. 
+Please refer to our <a href="https://github.com/kizunawl/CS3602-Project-BERT-CRF/blob/main/report.pdf">report</a> in this repository for more details of this project. 
 
-Please refer to [bert-base-chinese](https://huggingface.co/bert-base-chinese/tree/main) for pretrained model we use in this task. 
+Please refer to <a href="https://huggingface.co/bert-base-chinese/tree/main">bert-base-chinese</a> for pretrained model we use in this task. 
 
 We provide five major scripts for training & evaluation
 
